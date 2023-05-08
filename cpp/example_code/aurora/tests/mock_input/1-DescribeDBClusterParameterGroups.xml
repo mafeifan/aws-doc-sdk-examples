@@ -1,8 +1,0 @@
-<ErrorResponse xmlns="http://rds.amazonaws.com/doc/2014-10-31/">
-    <Error>
-        <Type>Sender</Type>
-        <Code>DBParameterGroupNotFound</Code>
-        <Message>DBClusterParameterGroup not found: doc-example-cpp-aurora-parameter-group</Message>
-    </Error>
-</ErrorResponse>
- 
